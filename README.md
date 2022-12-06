@@ -2,9 +2,10 @@
 
 **`S.M. Rabbi Reza (Developer/Learner)`**
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 I'm an Front-End Developer. I enjoy working in a challenging environment with scopes of learning different computer science aspects and meeting other people.
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on [SaRa Lifestyle Ltd.][SaRa-site]
 <!-- - 🌱 I’m currently learning ...
@@ -35,6 +36,5 @@ I'm an Front-End Developer. I enjoy working in a challenging environment with sc
 <img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <br />
 
-#
 
 [SaRa-site]: http://saralifestyle.com/
