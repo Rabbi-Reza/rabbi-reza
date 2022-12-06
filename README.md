@@ -18,7 +18,6 @@ I'm an Front-End Developer. I enjoy working in a challenging environment with sc
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabbi-Reza&show_icons=true&locale=en&layout=compact" alt="Rabbi-Reza" /></p>
 
-#
 
 ### 🧰 Languages and Tools
 
