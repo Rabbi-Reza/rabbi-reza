@@ -16,6 +16,7 @@ I'm an Front-End Developer. I enjoy working in a challenging environment with sc
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabbi-Reza&show_icons=true&locale=en&layout=compact" alt="Rabbi-Reza" /></p>
 
 ### 🧰 Languages and Tools
 
@@ -37,10 +38,8 @@ I'm an Front-End Developer. I enjoy working in a challenging environment with sc
 <br />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabbi-Reza&show_icons=true&locale=en&layout=compact" alt="Rabbi-Reza" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rabbi-Reza&show_icons=true&locale=en" alt="Rabbi-Reza" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rabbi-Reza&show_icons=true&locale=en" alt="Rabbi-Reza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbi-Reza&" alt="Rabbi-Reza" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbi-Reza&" alt="Rabbi-Reza" /></p> -->
 
 [SaRa-site]: http://saralifestyle.com/
