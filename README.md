@@ -19,7 +19,7 @@ I'm an Front-End Developer. I enjoy working in a challenging environment with sc
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;background:'red'" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -36,5 +36,11 @@ I'm an Front-End Developer. I enjoy working in a challenging environment with sc
 <img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <br />
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabbi-Reza&show_icons=true&locale=en&layout=compact" alt="Rabbi-Reza" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rabbi-Reza&show_icons=true&locale=en" alt="Rabbi-Reza" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbi-Reza&" alt="Rabbi-Reza" /></p>
 
 [SaRa-site]: http://saralifestyle.com/
