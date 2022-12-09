@@ -7,7 +7,7 @@
 I'm an Front-End Developer. I enjoy working in a challenging environment with scopes of learning different computer science aspects and meeting other people.
 
 
-- 🔭 I’m currently working on [SaRa Lifestyle Ltd.][SaRa-site]
+- 🔭 I’m currently working as a Front-End Developer at [SaRa Lifestyle Ltd.][SaRa-site] from December, 2021.
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,7 +16,8 @@ I'm an Front-End Developer. I enjoy working in a challenging environment with sc
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabbi-Reza&show_icons=true&locale=en&layout=compact" alt="Rabbi-Reza" /></p>
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabbi-Reza&show_icons=true&locale=en&layout=compact" alt="Rabbi-Reza" /></p> -->
 
 
 ### 🧰 Languages and Tools
