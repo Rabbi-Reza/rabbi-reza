@@ -1,13 +1,15 @@
-### Hi there 👋
+### Hi there, I'm S.M. Rabbi Reza 👋
 
-**`S.M. Rabbi Reza (Developer/Learner)`**
+**Front-End Software Engineer | React.js | Next.js | TypeScript `(Developer/Learner)`**
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-I'm a Front-End Software Engineer. I enjoy working in a challenging environment where I can learn about various aspects of computer science and meet new people.
+I am a Mid-Level Frontend Developer with over **4.5+ years of professional experience** building scalable, SEO-optimized, and accessible web applications. I specialize in React and Next.js, with a proven track record of optimizing Core Web Vitals and supporting high-traffic platforms. I enjoy working in a challenging environment where I can learn about various aspects of computer science and meet new people.
 
+- 🔭 **Currently:** Frontend Developer at **[SaRa Lifestyle Ltd.](http://saralifestyle.com/)** (since Dec 2021).
+- 🎓 **Education:** - Bachelor of Science in CSE from the **University of Barishal**.
+- ⚡ **Core Focus:** React 19, Next.js (App & Page Router), TypeScript, and Performance Optimization.
 
-🔭 I’ve been working as a Front-End Developer at [SaRa Lifestyle Ltd.][SaRa-site] since December 2021.
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -57,8 +59,6 @@ I'm a Front-End Software Engineer. I enjoy working in a challenging environment 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rabbi-Reza&show_icons=true&locale=en" alt="Rabbi-Reza" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbi-Reza&" alt="Rabbi-Reza" /></p> -->
-
-[SaRa-site]: http://saralifestyle.com/
 
 ---
 
