@@ -7,7 +7,7 @@
 I am a Mid-Level Frontend Developer with over **4.5+ years of professional experience** building scalable, SEO-optimized, and accessible web applications. I specialize in React and Next.js, with a proven track record of optimizing Core Web Vitals and supporting high-traffic platforms. I enjoy working in a challenging environment where I can learn about various aspects of computer science and meet new people.
 
 - 🔭 **Currently:** Frontend Developer at **[SaRa Lifestyle Ltd.](http://saralifestyle.com/)** (since Dec 2021).
-- 🎓 **Education:** - Bachelor of Science in CSE from the **University of Barishal**.
+- 🎓 **Education:** - Bachelor of Science in CSE from the **[University of Barishal](https://bu.ac.bd/)**.
 - ⚡ **Core Focus:** React 19, Next.js (App & Page Router), TypeScript, and Performance Optimization.
 
 <!-- - 🌱 I’m currently learning ...
