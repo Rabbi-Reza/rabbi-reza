@@ -2,7 +2,7 @@
 
 **Front-End Software Engineer | React.js | Next.js | TypeScript `(Developer/Learner)`**
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 I am a Mid-Level Frontend Developer with over **4.5+ years of professional experience** building scalable, SEO-optimized, and accessible web applications. I specialize in React and Next.js, with a proven track record of optimizing Core Web Vitals and supporting high-traffic platforms. I enjoy working in a challenging environment where I can learn about various aspects of computer science and meet new people.
 
