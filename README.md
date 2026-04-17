@@ -50,3 +50,23 @@ I'm a Front-End Software Engineer. I enjoy working in a challenging environment 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rabbi-Reza&" alt="Rabbi-Reza" /></p> -->
 
 [SaRa-site]: http://saralifestyle.com/
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Rabbi-Reza&show_icons=true&theme=radical" alt="Rabbi-Reza's GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabbi-Reza&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+* [cite_start]**Portfolio:** [portfolio-nzr.vercel.app](https://portfolio-nzr.vercel.app) [cite: 3]
+* [cite_start]**LinkedIn:** [linkedin.com/in/s-m-rabbi-reza/](https://linkedin.com/in/s-m-rabbi-reza/) [cite: 2]
+* [cite_start]**GitHub:** [github.com/Rabbi-Reza](https://github.com/Rabbi-Reza) [cite: 2]
+* [cite_start]**Email:** [rabbi.cse1.bu@gmail.com](mailto:rabbi.cse1.bu@gmail.com) [cite: 2]
+
+---
