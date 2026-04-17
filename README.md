@@ -64,9 +64,9 @@ I'm a Front-End Software Engineer. I enjoy working in a challenging environment 
 
 ### 📫 Let's Connect!
 
-* [cite_start]**Portfolio:** [portfolio-nzr.vercel.app](https://portfolio-nzr.vercel.app) [cite: 3]
-* [cite_start]**LinkedIn:** [linkedin.com/in/s-m-rabbi-reza/](https://linkedin.com/in/s-m-rabbi-reza/) [cite: 2]
-* [cite_start]**GitHub:** [github.com/Rabbi-Reza](https://github.com/Rabbi-Reza) [cite: 2]
-* [cite_start]**Email:** [rabbi.cse1.bu@gmail.com](mailto:rabbi.cse1.bu@gmail.com) [cite: 2]
+* **Portfolio:** [rabbi-reza-dev.vercel.app](https://rabbi-reza-dev.vercel.app/) 
+* **LinkedIn:** [linkedin.com/in/s-m-rabbi-reza/](https://linkedin.com/in/s-m-rabbi-reza/)
+* **GitHub:** [github.com/Rabbi-Reza](https://github.com/Rabbi-Reza)
+* **Email:** [rabbi.cse1.bu@gmail.com](mailto:rabbi.cse1.bu@gmail.com)
 
 ---
